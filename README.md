@@ -1,3 +1,3 @@
 # MyGIS
 Core Apk complete 
-debugging virtual compass caused by some Array issue
+Just added scene capture and geo-recording of the picture
